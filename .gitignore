@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.pytest_cache/
+allure-results/
+allure-report/
+*.png
+*.zip
+.env
+.DS_Store
+tests_for_1_7_days/
+tests_for_8_14_days/
