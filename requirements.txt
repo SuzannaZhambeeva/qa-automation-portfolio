@@ -1,0 +1,7 @@
+pytest
+requests
+jsonschema
+selenium
+webdriver-manager
+playwright
+allure-pytest
