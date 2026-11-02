@@ -1,3 +1,5 @@
+![API tests](https://github.com/SuzannaZhambeeva/qa-automation-portfolio/actions/workflows/api-tests.yml/badge.svg)
+
 # QA Automation Portfolio
 
 Автотесты на Python: API, UI (Selenium) и UI (Playwright).
